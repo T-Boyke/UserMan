@@ -18,7 +18,7 @@ set -o pipefail
 # ==============================================================================
 # Globale Variablen und Konstanten
 # ==============================================================================
-INPUT_CSV="Abwesenheit NE5NE4 FIAE WS26.csv"
+INPUT_CSV="Abwesenheit_Generated_25.csv"
 CLEANED_CSV="cleaned_users.csv"
 LOG_FILE="userlog.md"
 CREDENTIALS_FILE="credentials.csv"
